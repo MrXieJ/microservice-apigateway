@@ -1,0 +1,12 @@
+com\scut\cloud\controller\jiayibilin\weChat\wechatController.class
+com\scut\cloud\commonconfig\CorsConfig.class
+com\scut\cloud\fallback\jiayibilin\mySql\mySqlFallbackProvider$1.class
+com\scut\cloud\fallback\jiayibilin\app\AppFallbackProvider.class
+com\scut\cloud\fallback\jiayibilin\weChat\weChatFallbackProvider.class
+com\scut\cloud\fallback\jiayibilin\app\AppFallbackProvider$1.class
+com\scut\cloud\filter\AccessFilter.class
+com\scut\cloud\fallback\jiayibilin\webManage\webManageFallbackProvider$1.class
+com\scut\cloud\fallback\jiayibilin\weChat\weChatFallbackProvider$1.class
+com\scut\cloud\Application.class
+com\scut\cloud\fallback\jiayibilin\webManage\webManageFallbackProvider.class
+com\scut\cloud\fallback\jiayibilin\mySql\mySqlFallbackProvider.class

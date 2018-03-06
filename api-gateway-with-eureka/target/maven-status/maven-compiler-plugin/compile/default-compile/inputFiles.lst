@@ -1,0 +1,8 @@
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\fallback\jiayibilin\app\AppFallbackProvider.java
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\fallback\jiayibilin\weChat\weChatFallbackProvider.java
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\controller\jiayibilin\weChat\wechatController.java
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\fallback\jiayibilin\mySql\mySqlFallbackProvider.java
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\fallback\jiayibilin\webManage\webManageFallbackProvider.java
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\Application.java
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\commonconfig\CorsConfig.java
+D:\IDEAnewcode\api-gateway-with-eureka\api-gateway-with-eureka\src\main\java\com\scut\cloud\filter\AccessFilter.java
